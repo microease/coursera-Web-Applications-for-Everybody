@@ -28,7 +28,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\coursera-Web-Applications-for-Everybody" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\coursera-Web-Applications-for-Everybody" />
+      <recent name="D:\Github\coursera-Web-Applications-for-Everybody\Reversing an MD5 hash" />
+      <recent name="D:\Github\coursera-Web-Applications-for-Everybody\Autograder HyperText Markup Language\Our First PHP Application" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,6 +70,8 @@
       <updated>1572510578584</updated>
       <workItem from="1572510581658" duration="162000" />
       <workItem from="1572510783239" duration="3039000" />
+      <workItem from="1572686986689" duration="617000" />
+      <workItem from="1572688154707" duration="7461000" />
     </task>
     <servers />
   </component>
